@@ -1,6 +1,6 @@
 A new feature that I think is meaningful to implement in the future is to collect the questions that posted by the users whose questions 
 are in the 10 most voted questions. Also, the owner of the most voted answer might also anwer related questions recently. The questions 
-they choose to answer are meaningful and worth thing about to some extent from their point of view. So these questions should also be 
+they choose to answer are meaningful and worth thinking about to some extent from their point of view. So these questions should also be 
 included in. And repeated questions will definitely not  showing again
 
 Although the original 20 questions might seems to be enough for someone who are interested in browsing and answering. It is still possible 
