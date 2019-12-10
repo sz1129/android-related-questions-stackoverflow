@@ -1,0 +1,10 @@
+A new feature that I think is meaningful to implement in the future is to collect the questions that posted by the users whose questions 
+are in the 10 most voted questions. Also, the owner of the most voted answer might also anwer related questions recently. The questions 
+they choose to answer are meaningful and worth thing about to some extent from their point of view. So these questions should also be 
+included in. And repeated questions will definitely not  showing again
+
+Although the original 20 questions might seems to be enough for someone who are interested in browsing and answering. It is still possible 
+that during some special time like new technical emerge attracts people so that 20 questions can not satisfy the needs. Also, we can 
+not deny the value of questions with not so high votes. They can be ignored by people. 
+
+There will be a button on the bottom-right of the website. Users can view extra ones if they want.
